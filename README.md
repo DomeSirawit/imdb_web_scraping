@@ -7,6 +7,9 @@ using python library gazpacho
 
 
 scrape data from website and store in pandas data frame
+
+
+
 ![image](https://user-images.githubusercontent.com/98679146/203467592-8519a5c7-1333-45fe-a300-d3d10535667a.png)
 
 
